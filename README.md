@@ -42,5 +42,5 @@ Metric	Precision	Recall	F1-Score
 Stayed (False)	0.88	1.00	0.93
 Left (True)	0.80	0.10	0.18
 
-**Screenshot**:()
+**Screenshot**:(assets/Screenshot.png)
 📉 Issue: The model struggles with predicting employees who leave.
